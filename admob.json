@@ -3,6 +3,6 @@
   "native_ads": "Ua1dITcJPi9VNUWl2xfsOLJhkhEmlK/qSsmkYMtZnGZ3ynUff4XZ24+vOOrITn66WGn5MpDcpnLKMxKwu18YuQ==",
   "interstitial_ads": "Zs97+AFqeN0SIlweZUKT2mCSr8W7S7v+8shzHqeI5aJdY7720LVDZO0cC/LzdOPlDu19GBPDVTGrBsfU/bWhyA==",
   "app_open_ads": "JKkaLpJyHgBXzZu7uOmY1qX1wEc4hzA2/PkWtStmr3I+qC/LHSnfYOqN2ArGWb4QFcXxhL9sQO6pJSPAqt0mqQ==",
-  "version_code": "14",
-  "delay": "120000"
+  "version_code": "15",
+  "delay": "30000"
 }
