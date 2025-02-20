@@ -1,8 +1,8 @@
 {
   "banner_ads": "ca-app-pub-5598225441804078/7350505853",
-  "native_ads": "ca-app-pub-5598225441804078~1456824345",
-  "interstitial_ads": "ca-app-pub-5598225441804078~1456824345",
-  "app_open_ads": "ca-app-pub-5598225441804078~1456824345",
+  "native_ads": "ca-app-pub-5598225441804078/9283406764",
+  "interstitial_ads": "ca-app-pub-5598225441804078/5414607659",
+  "app_open_ads": "ca-app-pub-5598225441804078/6368596679",
   "version_code": "25",
   "delay": "30000",
   "show_delay":false
