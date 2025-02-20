@@ -1,8 +1,8 @@
 {
-  "banner_ads": "WzuMt2nqJS+/rzt22Ja8zrKWhhHelnF1pYGPhuIwbW7Qs4pSie8946hPqjcpTa1M/Rie0zrVWKOHRfVPgpheeA==",
-  "native_ads": "Ua1dITcJPi9VNUWl2xfsOLJhkhEmlK/qSsmkYMtZnGZ3ynUff4XZ24+vOOrITn66WGn5MpDcpnLKMxKwu18YuQ==",
-  "interstitial_ads": "Zs97+AFqeN0SIlweZUKT2mCSr8W7S7v+8shzHqeI5aJdY7720LVDZO0cC/LzdOPlDu19GBPDVTGrBsfU/bWhyA==",
-  "app_open_ads": "JKkaLpJyHgBXzZu7uOmY1qX1wEc4hzA2/PkWtStmr3I+qC/LHSnfYOqN2ArGWb4QFcXxhL9sQO6pJSPAqt0mqQ==",
+  "banner_ads": "ca-app-pub-5598225441804078/7350505853",
+  "native_ads": "ca-app-pub-5598225441804078~1456824345",
+  "interstitial_ads": "ca-app-pub-5598225441804078~1456824345",
+  "app_open_ads": "ca-app-pub-5598225441804078~1456824345",
   "version_code": "25",
   "delay": "30000",
   "show_delay":false
