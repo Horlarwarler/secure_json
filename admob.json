@@ -3,7 +3,7 @@
   "native_ads": "ca-app-pub-5598225441804078/9283406764",
   "interstitial_ads": "ca-app-pub-5598225441804078/5414607659",
   "app_open_ads": "ca-app-pub-5598225441804078/6368596679",
-  "version_code": "25",
+  "version_code": "26",
   "delay": "30000",
   "show_delay":false
 }
